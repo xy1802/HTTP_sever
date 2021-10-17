@@ -1,2 +1,2 @@
 # HTTP_sever
-A simple HTTP sever using python 
+A simple muti-thread HTTP sever using python 
